@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Q31</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+<string name="c1">现有订单</string>
+<string name="c2">纪录</string>
+<string name="c3">是日餐单</string>
+<string name="c4">设定</string>
+<string name="c5">再按一次退出程序</string>
+<string name="c6">现有订单</string>
+    <string-array name="c68">
+        <item>未接</item>
+        <item>接受了</item>
+    </string-array>
+<string name="c8">外卖</string>
+<string name="c9">自取</string>
+<string name="c10">---------</string>
+<string name="c11">--</string>
+<string name="c12">今日</string>
+<string name="c13">过去一周</string>
+<string name="c14">过去一月</string>
+<string name="c15">完成</string>
+<string name="c12a">名称</string>
+<string name="c13a">价格</string>
+<string name="c14a">时间</string>
+<string name="c15a">数量</string>
+<string name="c49">用户反馈</string>
+<string name="c50">分享设定</string>
+<string name="c51">喜欢Queue Free</string>
+<string name="c52">去点评一下</string>
+<string name="c53">清空缓存</string>
+<string name="c54">561.01k</string>
+<string name="c55">关于Queue Free</string>
+<string name="c48">设定</string>
+<string name="c19">确定</string>
+<string name="c20">取消</string>
+<string name="d1">名称:</string>
+<string name="d2">价钱:</string>
+<string name="d3">时间:</string>
+<string name="d4">数量:</string>
+
+</resources>
